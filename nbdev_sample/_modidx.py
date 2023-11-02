@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cbrew.github.io',
                 'git_url': 'https://github.com/cbrew/nbdev-sample',
                 'lib_path': 'nbdev_sample'},
-  'syms': {'nbdev_sample.core': {'nbdev_sample.core.foo': ('core.html#foo', 'nbdev_sample/core.py')}}}
+  'syms': {'nbdev_sample.core': {'nbdev_sample.core.say_hello': ('core.html#say_hello', 'nbdev_sample/core.py')}}}

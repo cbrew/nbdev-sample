@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-sample"
+  site-url: "https://cbrew.github.io/nbdev-sample"
+  description: "Sample package for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/cbrew/nbdev-sample"
